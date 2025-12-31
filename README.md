@@ -142,7 +142,7 @@ MachineLearning/
 ├── README.md
 └── requirements.txt
 
-8. Tác giả
+## Tác giả
 - **Họ tên**: Đoàn Thị Thu Linh  
 - **Mã sinh viên**: 12423020  
 - **Lớp**: 12423TN
