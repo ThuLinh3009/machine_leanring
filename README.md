@@ -115,7 +115,6 @@ Các mô hình được đánh giá bằng các chỉ số:
 
 ## 6. Hướng dẫn chạy
 
-```bash
 # 6.1. Cài môi trường
 pip install numpy pandas scikit-learn matplotlib seaborn streamlit joblib
 
@@ -128,7 +127,6 @@ streamlit run app.py
 
 
 ## 7. Cấu trúc thư mục dự án
-```bash
 MachineLearning/
 │
 ├── data/
