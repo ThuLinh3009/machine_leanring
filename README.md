@@ -115,19 +115,17 @@ Các mô hình được đánh giá bằng các chỉ số:
 
 ## 6. Hướng dẫn chạy
 
-### 6.1. Cài môi trường
 ```bash
+# 6.1. Cài môi trường
 pip install numpy pandas scikit-learn matplotlib seaborn streamlit joblib
----
-## 6.2. Chạy train
-Mở Jupyter Notebook bằng lệnh:
-```bash
+
+# 6.2. Chạy train
 jupyter notebook
----
-## 6.3. Chạy demo / inference
-Cần có lệnh chạy ứng dụng demo bằng Streamlit:
-```bash
+# Mở và chạy file: 12423020_DoanThiThuLinh.ipynb
+
+# 6.3. Chạy demo / inference
 streamlit run app.py
+
 ---
 ## 7. Cấu trúc thư mục dự án
 ```bash
