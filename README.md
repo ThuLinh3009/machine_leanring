@@ -120,7 +120,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn streamlit joblib
 
 # 6.2. Chạy train
 jupyter notebook
-# Mở và chạy file: 12423020_DoanThiThuLinh.ipynb
+Mở và chạy file: 12423020_DoanThiThuLinh.ipynb
 
 # 6.3. Chạy demo / inference
 streamlit run app.py
