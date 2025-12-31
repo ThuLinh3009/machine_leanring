@@ -126,7 +126,7 @@ jupyter notebook
 # 6.3. Chạy demo / inference
 streamlit run app.py
 
----
+
 ## 7. Cấu trúc thư mục dự án
 ```bash
 MachineLearning/
@@ -143,7 +143,7 @@ MachineLearning/
 │   └── 12423TN_12423020_DoanThiThuLinh_ML.pdf
 ├── README.md
 └── requirements.txt
----
+
 ## 8. Tác giả
 - **Họ tên**: Đoàn Thị Thu Linh  
 - **Mã sinh viên**: 12423020  
