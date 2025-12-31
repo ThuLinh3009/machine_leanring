@@ -109,7 +109,7 @@ Các mô hình được đánh giá bằng các chỉ số:
 | Lasso Regression | 3.419 | 4.234 | 0.126 |
 | Decision Tree | 3.620 | 4.695 | -0.075 |
 
-👉 **Random Forest** là mô hình cho kết quả tốt nhất ở cả hai trường hợp.
+=> **Random Forest** là mô hình cho kết quả tốt nhất ở cả hai trường hợp.
 
 ---
 
@@ -118,3 +118,35 @@ Các mô hình được đánh giá bằng các chỉ số:
 ### 6.1. Cài môi trường
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn streamlit joblib
+---
+## 6.2. Chạy train
+Mở Jupyter Notebook bằng lệnh:
+```bash
+jupyter notebook
+---
+## 6.3. Chạy demo / inference
+Cần có lệnh chạy ứng dụng demo bằng Streamlit:
+```bash
+streamlit run app.py
+---
+## 7. Cấu trúc thư mục dự án
+```bash
+MachineLearning/
+│
+├── data/
+│   └── student-mat.csv
+├── app/
+│   └── 12423020_DoanThiThuLinh.ipynb
+├── demo/
+│   └── app.py
+├── student_g3.pkl
+├── student_g3_model_b1_no_g1g2.pkl
+├── slide/
+│   └── 12423TN_12423020_DoanThiThuLinh_ML.pdf
+├── README.md
+└── requirements.txt
+---
+## 8. Tác giả
+- **Họ tên**: Đoàn Thị Thu Linh  
+- **Mã sinh viên**: 12423020  
+- **Lớp**: 12423TN
