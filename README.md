@@ -115,14 +115,14 @@ Các mô hình được đánh giá bằng các chỉ số:
 
 ## 6. Hướng dẫn chạy
 
-# 6.1. Cài môi trường
+### 6.1. Cài môi trường
 pip install numpy pandas scikit-learn matplotlib seaborn streamlit joblib
 
-# 6.2. Chạy train
+### 6.2. Chạy train
 jupyter notebook
 Mở và chạy file: 12423020_DoanThiThuLinh.ipynb
 
-# 6.3. Chạy demo / inference
+### 6.3. Chạy demo / inference
 streamlit run app.py
 
 
@@ -142,7 +142,7 @@ MachineLearning/
 ├── README.md
 └── requirements.txt
 
-## 8. Tác giả
+8. Tác giả
 - **Họ tên**: Đoàn Thị Thu Linh  
 - **Mã sinh viên**: 12423020  
 - **Lớp**: 12423TN
